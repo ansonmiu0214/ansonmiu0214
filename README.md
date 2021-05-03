@@ -15,7 +15,10 @@
    > Master's Thesis, supervised by Prof. Nobuko Yoshida
 
 1. > #### _Generating Interactive WebSocket Applications in TypeScript_ [![arXiv](https://img.shields.io/badge/arXiv-2004.01321-b31b1b.svg)](https://arxiv.org/abs/2004.01321)
-   > 12th Workshop on Programming Language Approaches to Concurrency- & Communication-cEntric Software
+   > PLACES 2020: Proceedings of the 12th Workshop on Programming Language Approaches to Concurrency- & Communication-cEntric Software
+
+1. > #### _Communication-Safe Web Programming in TypeScript with Routed Multiparty Session Types_ [![arXiv](https://img.shields.io/badge/arXiv-2101.04622-b31b1b.svg)](https://arxiv.org/abs/2101.04622)
+   > CC 2021: Proceedings of the 30th ACM SIGPLAN International Conference on Compiler Construction
   
 <!--
 **ansonmiu0214/ansonmiu0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
