@@ -5,10 +5,10 @@
 - 🎓 Master of Engineering in Computing, Imperial College London
   - 🥇 1st Class Honours, Dean's List, ...
 - 🧰 Stack:
-  - 😄 TypeScript, JavaScript, Python
-  - 🙂 Java, C, C++
-  - 🤔 Haskell, Go, Swift  
-- 💡 Interests: type theory, programming language design
+  - 😄 Python, TypeScript, JavaScript, C++
+  - 🙂 Java, C
+  - 🤔 Haskell, Go, Swift, Rust  
+- 💡 Interests: type theory, programming language design, static analysis
   
 #### 📚 Publications
 1. > #### _Type-Safe Web Programming Using Routed Multiparty Session Types in TypeScript_
